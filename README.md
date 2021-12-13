@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Divyansh Goyal, a third-year Software Engineering and Business Major at the University of Calgary.
-🔭 I’m currently working on strengthening my wev development skills to develop a personal portfolio!
+- I am Divyansh Goyal, a third-year Software Engineering and Business Major at the University of Calgary.
+- 🔭 I’m currently working on strengthening my wev development skills to develop a personal portfolio!
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=DG-20&count_private=true&theme=tokyonight&showicons=true)]()
