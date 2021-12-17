@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! 👋
 
 <!--
 **DG-20/DG-20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - I am Divyansh Goyal, a third-year Software Engineering and Business Major at the University of Calgary.
-- 🔭 I’m currently working on strengthening my wev development skills to develop a personal portfolio!
+- 🔭 I’m currently working on strengthening my wev development skills as well as gaining experience with the software development and design process.
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=DG-20&count_private=true&theme=tokyonight&showicons=true)]()
