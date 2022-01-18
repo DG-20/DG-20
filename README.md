@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on strengthening my wev development skills to develop a personal portfolio!
+- 🔭 I’m currently working on strengthening my we development skills to develop a personal portfolio!
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - I am Divyansh Goyal, a third-year Software Engineering and Business Major at the University of Calgary.
-- 🔭 I’m currently working on strengthening my wev development skills as well as gaining experience with the software development and design process.
+- 🔭 I’m currently working on strengthening my web development skills as well as gaining experience with the software development and design process.
 
 <!--![Visitor Count](https://profile-counter.glitch.me/{DG-20}/count.svg)-->
 
