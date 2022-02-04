@@ -4,7 +4,6 @@
 - 📚 Currently, I am working on strengthening my web development abilities to create a personal portfolio. I am also gaining valuable experience in development management processes through my academic courses.
 - 🤝 I would love to collaborate on technical projects so feel free to reach out through:
 *    [My LinkedIn](https://www.linkedin.com/in/divyansh-goyal2001/)
-*    [My Email](divyansh.goyal2001@gmail.com)
 
 ## Interesting GitHub Statistics
 
