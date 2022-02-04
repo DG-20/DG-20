@@ -1,7 +1,5 @@
 ### Hello! 👋
 
-<!--
-**DG-20/DG-20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,7 +14,10 @@ Here are some ideas to get you started:
 -->
 
 - I am Divyansh Goyal, a third-year Software Engineering and Business Major at the University of Calgary.
-- 🔭 I’m currently working on strengthening my web development skills as well as gaining experience with the software development and design process.
+- 📚 Currently, I am working on strengthening my web development abilities to create a personal portfolio. I am also gaining valuable experience in development management processes through my academic courses.
+- 🤝 I would love to collaborate on technical projects so feel free to reach out!
+
+## Interesting GitHub Statistics
 
 <!--![Visitor Count](https://profile-counter.glitch.me/{DG-20}/count.svg)-->
 
