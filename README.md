@@ -6,6 +6,6 @@
 
 ## Interesting GitHub Statistics
 
-<!--![Visitor Count](https://profile-counter.glitch.me/{DG-20}/count.svg)-->
+[Visitor Count](https://profile-counter.glitch.me/{DG-20}/count.svg)
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=DG-20&count_private=true&theme=tokyonight&showicons=true)]()
