@@ -1,6 +1,5 @@
 ### Hello! 👋
-
-* <strong>I am Divyansh Goyal, a third-year Software Engineering and Business Major at the University of Calgary.</strong>
+* I am Divyansh Goyal, a third-year Software Engineering and Business Major at the University of Calgary.
 <br>
 * 📚 Currently, I am working on strengthening my web development abilities to create a personal portfolio. I am also gaining valuable experience in development management processes through my academic courses.
 * 🤝 I would love to collaborate on technical projects so feel free to reach out through:
