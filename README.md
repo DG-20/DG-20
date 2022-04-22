@@ -8,3 +8,5 @@
 <!--[Visitor Count](https://profile-counter.glitch.me/{DG-20}/count.svg)-->
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=DG-20&count_private=true&theme=tokyonight&showicons=true)]()
+
+[![Hits](https://hits.sh/github.com/DG-20/hits.svg)](https://hits.sh/github.com/DG-20/hits/)
