@@ -5,7 +5,3 @@
 * 🤝 I would love to collaborate on technical projects so feel free to reach out!
 
 **Check out my website: https://divgoyal.tech**
-
-## Interesting GitHub Statistics
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=DG-20&count_private=true&theme=tokyonight&showicons=true)]()
