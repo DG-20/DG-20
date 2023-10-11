@@ -4,4 +4,4 @@
 * 💻 In my personal time, I am working on strengthening my web development abilities (full-stack). I am also spending some time educating myself on blockchain technologies, computer vision, and AI.
 * 🤝 I would love to collaborate on technical projects so feel free to reach out!
 
-**Check out my website: https://divgoyal.tech**
+**Check out my website: https://divgoyal.me**
