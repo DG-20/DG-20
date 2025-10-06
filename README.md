@@ -30,7 +30,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![DB Opt](https://img.shields.io/badge/DB%20Opt-%2300599C.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![DB Optimization](https://img.shields.io/badge/DB%20Opt-%2300599C.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Data Handling](https://img.shields.io/badge/Data%20Handling-%23000000.svg?style=for-the-badge&logo=databricks&logoColor=white) 
 ![Azure](https://img.shields.io/badge/Azure-%230078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black) 
