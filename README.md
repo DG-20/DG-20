@@ -1,6 +1,6 @@
 # About Me 👋
 * I am Divyansh Goyal, a Software Engineering and Business graduate from the University of Calgary.
-* Currently, I'm an Associate Application Developer Consultant specializing in Cloud Modernization and Migration using AWS.
+* Currently, I'm an Associate Application Developer Consultant specializing in Agentic AI and Cloud Modernization using Azure AI and AWS.
 * 👨‍💼 In my previous positions as a DevOps Developer Intern at IBM and a Technology Analyst Intern at BMO, I gained insightful, hands-on experience with automation, scripting, web development, dashboarding, and working with other cutting-edge technologies!
 * 💻 In my personal time, I am working on strengthening my web development abilities (full-stack). I am also spending some time educating myself on blockchain technologies, computer vision, and AI.
 * 🤝 I would love to collaborate on technical projects so feel free to reach out!
@@ -24,6 +24,9 @@
 ![Automation](https://img.shields.io/badge/Automation-%2300CED1.svg?style=for-the-badge&logo=python&logoColor=white) 
 
 ## ☁️ AI, Data & Cloud Technologies
+![Azure](https://img.shields.io/badge/Azure-%230078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
+![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
@@ -32,8 +35,6 @@
 ![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![DB Optimization](https://img.shields.io/badge/DB%20Optimization-%2300599C.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Data Handling](https://img.shields.io/badge/Data%20Handling-%23000000.svg?style=for-the-badge&logo=databricks&logoColor=white) 
-![Azure](https://img.shields.io/badge/Azure-%230078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black) 
 
 ## 🔧 DevOps & Tools
 ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
